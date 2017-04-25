@@ -1,0 +1,13 @@
+{
+  "name": "react-ssr-example",
+  "version": "1.0.0",
+  "description": "A small node server that will render React components on the server side.",
+  "main": "index.js",
+  "repository": "https://github.com/ctrlaltdylan/react-ssr-example",
+  "author": "Dylan Pierce",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
